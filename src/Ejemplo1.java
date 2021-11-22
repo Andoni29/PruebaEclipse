@@ -8,5 +8,11 @@ public class Ejemplo1 {
 		String nombre="Andoni";
 		System.out.println(nombre);
 		
+		int num;
+		
+		for(num=2;num<=10;num++) {
+			System.out.print(num+" ");
+		}
+		
 	}
 }
